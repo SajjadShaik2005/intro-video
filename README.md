@@ -12,4 +12,4 @@ I enjoy building projects, learning new technologies, and improving my problem-s
 
 ## 🎥 My Introduction Video
 You can watch my intro video here:
-[Click to Watch]([./your-video-name.mp4](https://github.com/SajjadShaik2005/intro-video/blob/main/WhatsApp%20Video%202026-02-13%20at%2015.17.29.mp4))
+[Click to Watch](https://github.com/SajjadShaik2005/intro-video/blob/main/WhatsApp%20Video%202026-02-13%20at%2015.17.29.mp4)
